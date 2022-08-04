@@ -12,7 +12,7 @@ import TimelineTwo from "./TimelineTwo";
 const Timeline = () => {
     return (
         <>
-            <SEO title="Timeline || Doob - React Business  Template" />
+            <SEO title="Timeline || Frontend - React Business  Template" />
             <Layout>
                 <BreadcrumbOne 
                     title="The Easiest Way To Create Website <br /> Quick Copy & Make site."

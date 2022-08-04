@@ -18,7 +18,7 @@ const TagList = ({match: {params: {slug}}}) => {
 
     return (
         <>
-            <SEO title="Blog Tag List || Doob" />
+            <SEO title="Blog Tag List || Frontend" />
             <Layout>
                 <BreadcrumbOne 
                     title={tagTitle}
