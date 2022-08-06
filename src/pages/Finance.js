@@ -24,7 +24,7 @@ const Finance = () => {
         <>
             <SEO title="Finance" />
             <main className="page-wrapper">
-                <HeaderTopNews />
+                {/* <HeaderTopNews /> */}
                 <HeaderTwo btnStyle="btn-small" HeaderSTyle="header-not-transparent" />
 
                 {/* Start Slider area  */}

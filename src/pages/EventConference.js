@@ -40,7 +40,7 @@ const EventConference = () => {
             <SEO title="Event Conference" />
 
             <main className="page-wrapper">
-                <HeaderTopNews />
+                {/* <HeaderTopNews /> */}
                 <HeaderOne btnStyle="btn-small btn-icon" HeaderSTyle="header-not-transparent" />
 
                 {/* Start Slider Area  */}

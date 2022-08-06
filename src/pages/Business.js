@@ -22,7 +22,7 @@ const Business = () => {
         <>
             <SEO title="Business" />
             <main className="page-wrapper">
-                <HeaderTopNews />
+                {/* <HeaderTopNews /> */}
                 <HeaderTwo btnStyle="btn-small" HeaderSTyle="header-not-transparent" />
 
                 {/* Start Slider Area  */}

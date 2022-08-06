@@ -363,7 +363,7 @@ const Splash = () => {
         <>
            <SEO title="Frontend" />
            <main className="page-wrapper">
-                <HeaderTopNews />
+                {/* <HeaderTopNews /> */}
                 <HeaderOne btnStyle="btn-small round btn-icon" HeaderSTyle="header-not-transparent" />
 
                 {/* Start Slider Area  */}

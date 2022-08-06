@@ -3,7 +3,7 @@ import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import PageScrollTop from './components/pageToTop/PageScrollTop'
 
 // Pages import Here 
-import Splash from "./pages/Splash";
+import Splash from "./pages/DigitalAgency";
 import HomeDefault from "./pages/HomeDefault";
 import BusinessConsulting2 from "./pages/BusinessConsulting2";
 import Corporate from "./pages/Corporate";

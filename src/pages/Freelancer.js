@@ -23,7 +23,7 @@ const Freelancer = () => {
         <>
             <SEO title="Freelancer" />
             <main className="page-wrapper">
-                <HeaderTopNews />
+                {/* <HeaderTopNews /> */}
                 <HeaderTwo btnStyle="btn-small" HeaderSTyle="header-transparent" />
 
                 {/* Start Slider area  */}

@@ -92,7 +92,7 @@ const TravelAgency = () => {
         <>
             <SEO title="Travel Agency" />
             <main className="page-wrapper">
-                <HeaderTopNews />
+                {/* <HeaderTopNews /> */}
                 <HeaderOne btnStyle="btn-small" HeaderSTyle="header-transparent" />
                 
                 {/* Start Slider Area  */}

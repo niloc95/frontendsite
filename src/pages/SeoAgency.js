@@ -19,7 +19,7 @@ const SeoAgency = () => {
         <>
             <SEO title="SEO Agency" />
             <main className="page-wrapper">
-                <HeaderTopNews />
+                {/* <HeaderTopNews /> */}
                 <HeaderOne btnStyle="btn-small btn-icon" HeaderSTyle="header-transparent" />
 
                 {/* Start Slider Area  */}
